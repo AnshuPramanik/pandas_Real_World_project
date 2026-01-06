@@ -5,6 +5,7 @@ My pandas Exploratory Data Analysis project
 ## Superstore_sales - Exploratory Data Analysis(EDA)
 **Description:**  
 Performed exploratory data analysis on a retail Superstore dataset to understand sales, profit, customers, and regional performance.
+
 **Key Tasks Performed:**
 - Understanding the data and structure analysis
 - Sales and profit analysis by category, region, and segment
